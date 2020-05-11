@@ -73,6 +73,10 @@ plugins:
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
 
+header:
+  image: /assest/images/sparks_v21.png
+
+
 footer:
   links:
     - label: "Twitter"
