@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Sparks Journal
+title: Home
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Sparks Journal of Undergraduate Research and Creative Works is an editorially reviewed multidisciplined publication that aims to showcase outstanding student works for a worldwide audience.
+  The Shepherd University Sparks Journal of Undergraduate Research and Creative Works is an editorially reviewed multidisciplined publication that aims to showcase outstanding student works for a worldwide audience.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
