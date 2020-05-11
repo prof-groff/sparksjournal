@@ -112,7 +112,4 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-  
-  
-layout: home
-  author_profile: false
+ 
